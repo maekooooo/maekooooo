@@ -16,7 +16,7 @@ Maeko</a>!</h1>
 
 - 📫 How to reach me **m.busque33@gmail.com**
 
-- 📄 Know about my experiences <a href="#" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1cRB5P5Ca-RBPfGGDXBxZSuflI016kHot/view" target="blank">Resume</a>
 <br/>
 
 **Languages I have used**
