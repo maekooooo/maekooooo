@@ -10,7 +10,7 @@ Maeko</a>!</h1>
 
 - 🌱 I’m currently working on an AI-based project.
 
-- 🌱 I’m currently learning LangChain and TypeScript
+- 🌱 I’m currently learning Vue.js + Machine Learning
 
 - 💬 Ask me about **Python**
 
