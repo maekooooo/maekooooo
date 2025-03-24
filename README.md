@@ -6,11 +6,11 @@ Maeko</a>!</h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://offshorly.com/" target="blank">Offshorly, Ltd</a>
+- 🔭 I’m currently working at <a href="https://offshorly.com/" target="blank">Offshorly, Ltd</a>
 
 - 🌱 I’m currently working on an AI-based project.
 
-- 🌱 I’m currently learning Vue.js + Machine Learning
+- 🌱 I’m currently learning Frontend (Svelte) and DevOps.
 
 - 💬 Ask me about **Python**
 
