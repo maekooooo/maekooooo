@@ -9,7 +9,7 @@ Backend developer from the Philippines. I make things work behind the scenes: AP
 
 ### Building
 
-- **[Fivesight](https://github.com/maekooooo/fivesight)**: signal app for 5-minute crypto up/down markets. Every five minutes it calls UP, DOWN or nothing for BTC, ETH, SOL and XRP, then logs and scores each call.
+- **Fivesight**: signal app for 5-minute crypto up/down markets. Every five minutes it calls UP, DOWN or nothing for BTC, ETH, SOL and XRP, then logs and scores each call.
 - **Little Acre**: a cozy, semi-idle pixel-art farming game for the browser.
 
 ### Stack
