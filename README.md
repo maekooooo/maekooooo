@@ -19,4 +19,4 @@ AWS, Docker, Terraform, OpenAI, Claude
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/embusque/) · [m.busque33@gmail.com](mailto:m.busque33@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/embusque/) · [hello@maekobusque.com](mailto:hello@maekobusque.com)
